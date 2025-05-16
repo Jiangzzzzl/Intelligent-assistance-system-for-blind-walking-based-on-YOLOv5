@@ -1,0 +1,8 @@
+path: C:/Users/jiangzhuoli/Desktop/yolov5-master/road  # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/test  # val images (relative to 'path')
+test:  # test images (optional)
+
+# Classes
+nc: 21  # number of classes
+names: ['roadblocks', 'fence', 'box', 'guideboard', 'traffic light', 'stone', 'tree', 'chair', 'dog', 'cat', 'people', 'car', 'bicycle', 'plant', 'rubbish bin', 'pole', 'distributor box', 'cart', 'motorcycle', 'streetlight', 'brand']  

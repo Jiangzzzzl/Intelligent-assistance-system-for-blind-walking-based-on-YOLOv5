@@ -1,0 +1,15 @@
+path: C:/Users/jiangzhuoli/Desktop/yolov5-master/dog-rope-qs  # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/test  # val images (relative to 'path')
+test:  # test images (optional)
+
+# Classes
+nc: 6  # number of classes
+names: ['dog', 'people', 'rope-yes', 'rope-no', 'qs-yes', 'qs-no']  
+#names:
+ # 0: dog
+  #1: people
+  #2: rope-yes
+ # 3: rope-no
+ # 4: qs-yes
+ # 5: qs-no
