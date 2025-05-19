@@ -64,6 +64,7 @@ Based on the Raspberry Pi Computer Model 4, it develops functionalities such as 
 
 此项目标注类别为常见的21类障碍物，数据集和标签文件对应位置为：
 
+```
 ├─road
     ├─images
     │  ├─test
@@ -71,6 +72,7 @@ Based on the Raspberry Pi Computer Model 4, it develops functionalities such as 
     └─labels
         ├─test
         └─train
+```
 
 2.修改配置文件
 
@@ -165,5 +167,3 @@ CSDN:柃茶柒fffffff
 - [YOLOv5 🚀 in PyTorch](https://github.com/ultralytics/yolov5)
 - [FasterNet](https://github.com/JierunChen/FasterNet)
 - [YOLOv5+单目测距（python）_yolov5单目测距-CSDN博客](https://blog.csdn.net/qq_45077760/article/details/130261489)
-
-
