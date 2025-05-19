@@ -67,9 +67,9 @@ fs = 8000  # 采样率
 duration = 8  # 录音时长（秒）
 output_file = "/home/pi/Desktop/recording.wav"  # 输出文件路径
 
-send_usr = '2770388604@qq.com'  # 发件人
+send_usr = ' '  # 发件人邮箱
 send_pwd = 'bjwkieetawivdeci' # 授权码，邮箱设置
-reverse = 'liiiiiiin@163.com'  # 接收者
+reverse = ' '  # 接收者邮箱
 content = '<p>佩戴人员出现意外:</p>'
 
 html_img = f'<p>{content}<br><img src="cid:image1"></br></p>' # html格式添加图片
