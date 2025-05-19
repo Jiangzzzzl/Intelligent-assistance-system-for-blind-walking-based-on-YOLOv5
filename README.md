@@ -103,7 +103,6 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 1.障碍物识别和距离检测
 ![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/detect.png)
 
-
 2.语音识别和聊天
 ![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/aliyun.jpg)
 ![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/llm.png)
@@ -127,7 +126,7 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 
 
 ## 演示视频
-<video src="https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/video.mp4"></video>
+
 
 
 ### 使用到的框架
