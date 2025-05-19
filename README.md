@@ -101,35 +101,33 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 ### 各模块测试结果
 
 1.障碍物识别和距离检测
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/detect.png)
 
 
 2.语音识别和聊天
-
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/aliyun.jpg)
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/llm.png)
 
 3.摔倒检测报警
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/email.jpg)
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/aliyun_2.jpg)
 
 
 4.手机APP端实时监测
-
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/APP_1.jpg)
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/APP_2.jpg)
 
 5.solidworks绘制图
-
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/3D_1.jpg)
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/3D_2.jpg)
 
 6.最终成品状态
-
-
-
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/show2.jpg)
+![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/show1.jpg)
 
 
 ## 演示视频
-
-
-
+<video src="https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/video.mp4"></video>
 
 
 ### 使用到的框架
