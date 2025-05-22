@@ -6,23 +6,24 @@ Based on the Raspberry Pi Computer Model 4, it develops functionalities such as 
 
 ## 目录
 
-- [上手指南](##上手指南)
-  - [开发前的配置&硬件要求](######开发前的配置&要求)
-  - [安装步骤](######安装步骤)
-- [训练步骤](##训练步骤)
-- [使用说明](##使用说明)
-- [各模块测试结果](##各模块测试结果)
-- [演示视频](##演示视频)
-- [使用到的框架](##使用到的框架)
-- [版本控制](##版本控制)
-- [作者](##作者)
-- [鸣谢](##鸣谢)
+- [上手指南](#1)
+  - [开发前的配置&硬件要求](#2)
+  - [安装步骤](#3)
+- [训练步骤](#4)
+- [使用说明](#5)
+- [各模块测试结果](#6)
+- [演示视频](#7)
+- [使用到的框架](#8)
+- [版本控制](#9)
+- [作者](#10)
+- [版权说明](#11)
+- [鸣谢](#12)
   
   
 
-### 上手指南
+### <h3 id="1">上手指南</h3>
 
-###### 开发前的配置&硬件要求
+###### <h6 id="2">开发前的配置&硬件要求</h3>
 
 1. 树莓派cm4+拓展板/树莓派4b
 2. python3.9.2
@@ -32,7 +33,7 @@ Based on the Raspberry Pi Computer Model 4, it develops functionalities such as 
 6. USB麦克风
 7. 杜邦线若干
 
-###### **安装步骤**
+###### <h6 id="3">**安装步骤**</h6>
 
 1. Clone the repo
    
@@ -56,7 +57,7 @@ Based on the Raspberry Pi Computer Model 4, it develops functionalities such as 
    
    
 
-### 训练步骤
+### <h3 id="4">训练步骤</h3>
 
 1.数据集准备
 
@@ -84,7 +85,7 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 
 
 
-### 使用说明
+### <h3 id="5">使用说明</h3>
 
 1.添加发送邮箱和接收邮箱信息
 
@@ -98,7 +99,7 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 
 
 
-### 各模块测试结果
+### <h3 id="6">各模块测试结果</h3>
 
 #### 1.障碍物识别和距离检测
 ![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/detect.png)
@@ -125,11 +126,11 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
 ![image](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/readme_picture/show1.jpg)
 
 
-## 演示视频
+### <h3 id="7">演示视频</h3>
 
 
 
-### 使用到的框架
+### <h3 id="8">使用到的框架</h3>
 
 - [pytorch](https://pytorch.org/)
 - [yolov5](https://jquery.com)
@@ -137,13 +138,13 @@ backbone部分修改为fasternet的代码会在 v2.0 整理完后给出
   
   
 
-### 版本控制
+### <h3 id="9">版本控制</h3>
 
 该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
 
 
-### 作者
+### <h3 id="10">作者</h3>
 
 Jiangzzzzl
 
@@ -153,13 +154,13 @@ CSDN:柃茶柒fffffff
 
 
 
-### 版权说明
+### <h3 id="11">版权说明</h3>
 
 该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/Jiangzzzzl/Intelligent-assistance-system-for-blind-walking-based-on-YOLOv5/blob/main/LICENSE)
 
 
 
-### 鸣谢
+### <h3 id="12">鸣谢</h3>
 
 - [YOLOv5 🚀 in PyTorch](https://github.com/ultralytics/yolov5)
 - [FasterNet](https://github.com/JierunChen/FasterNet)
